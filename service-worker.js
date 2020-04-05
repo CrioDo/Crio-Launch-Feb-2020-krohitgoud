@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Crio-Launch-Feb-2020-krohitgoud/precache-manifest.381033059ecb4414bcb83fbb2ce6d6d8.js"
+  "/Crio-Launch-Feb-2020-krohitgoud/precache-manifest.15432055387711a75322953229c7e3f3.js"
 );
 
 self.addEventListener('message', (event) => {
